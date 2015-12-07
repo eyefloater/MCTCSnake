@@ -1,4 +1,4 @@
-package com.clara;
+package com.gaby;
 
 import java.awt.*;
 import java.util.LinkedList;
